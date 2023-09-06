@@ -1,6 +1,6 @@
 # Conversor de moedas
 
-API Rest utilizando como tecnologia:
+API Rest utilizando as seguintes tecnologia:
 
 * Typescript
 * Node.js
