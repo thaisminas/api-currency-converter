@@ -1,0 +1,7 @@
+[2023-09-03T22:33:38.267Z] [log] User created with id: e2d32bd2-faf6-423e-971e-088c97fdfacb
+[2023-09-03T23:35:16.915Z] [log] User created with id: 6584f2df-58d9-48de-8e16-414a702299f3
+[2023-09-04T01:20:33.313Z] [log] User created with id: a19974bd-20bf-4025-9fc6-dfced60346bb
+[2023-09-04T01:24:11.726Z] [log] User created with id: b0e20d80-fa4f-4879-93e4-f58621f56941
+[2023-09-04T01:31:06.314Z] [log] User created with id: 18dd5750-5efe-4330-a3e7-968030a18646
+[2023-09-04T02:28:31.340Z] [log] User created with id: ee541a08-8f36-4c5e-9803-0dd04673676b
+[2023-09-04T02:31:18.316Z] [log] invalid data

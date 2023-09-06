@@ -1,0 +1,14 @@
+[2023-09-04T00:26:25.388Z] [warn] not found user for ID 4f6d5c5c-068a-4c28-9b6b-49d81a426d55
+[2023-09-04T00:38:43.661Z] [warn] not found user for ID 4f6d5c5c-068a-4c28-9b6b-49d81a426d55
+[2023-09-04T00:40:15.144Z] [warn] not found user for ID 4f6d5c5c-068a-4c28-9b6b-49d81a426d55
+[2023-09-04T00:41:17.128Z] [warn] not found user for ID 4f6d5c5c-068a-4c28-9b6b-49d81a426d55
+[2023-09-04T00:46:42.805Z] [warn] not found user for ID 4f6d5c5c-068a-4c28-9b6b-49d81a426d55
+[2023-09-04T01:50:33.461Z] [warn] not found user for ID 4f6d5c5c-068a-4c28-9b6b-49d81a426d55
+[2023-09-04T01:56:02.165Z] [warn] not found user for ID 4f6d5c5c-068a-4c28-9b6b-49d81a426d55
+[2023-09-04T02:13:06.713Z] [warn] not found user for ID 4f6d5c5c-068a-4c28-9b6b-49d81a426d00
+[2023-09-04T02:14:08.033Z] [warn] not found user for ID b0e20d80-fa4f-4879-93e4-f58621f56900
+[2023-09-04T02:32:01.768Z] [warn] not found user for ID ee541a08-8f36-4c5e-9803-0dd0467367io
+[2023-09-04T02:59:10.364Z] [warn] not found user for ID currency-converter
+[2023-09-04T03:00:35.157Z] [warn] not found user for ID currency-converter
+[2023-09-06T00:43:45.456Z] [warn] not found user for ID {id}
+[2023-09-06T00:43:52.229Z] [warn] not found user for ID currency-converter
